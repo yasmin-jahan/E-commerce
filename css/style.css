@@ -91,7 +91,7 @@ header {
 .search_box {
     position: absolute;
     top: 85px;
-    right: 2rem;
+    right: 32px;
     /* show near header icons */
     transition: 0.2s;
     z-index: 99;

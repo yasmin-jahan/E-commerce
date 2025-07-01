@@ -733,12 +733,28 @@ top: 60px;
 @media only screen and (max-width: 360px){
 
     /* header-section-starts */
-      .user_content p a {
-    color: #17fd02;
-}
     .header-icons i {
     font-size: 17px;
     margin-right: 13px;
+}
+.user{
+    padding: 14px;
+}
+.user.active {
+    right: 7px;
+}
+.user_content h3 {
+    font-size: 18px;
+}
+.user input {
+   font-size: 15px;
+}
+.user_content p {
+    font-size: 15px;
+    margin-bottom: 9px;
+}
+.user .login_btn {
+   font-size: 15px;
 }
 .search_box {
    right: 15px;
