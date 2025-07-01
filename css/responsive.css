@@ -907,6 +907,9 @@ top: 60px;
     font-size: 14px;
     padding: 9px 8px;
 }
+.newsletter_form input[type="text"] {
+    padding: 2px 10px;
+}
     /* newsletter-section-ends */
 
     /* footer-section-starts */
