@@ -753,11 +753,14 @@ top: 60px;
     /* header-section-ends */
 
     /* hero-section-starts */
+    .hero_content_img img {
+    padding: 10px;
+}
     .hero_section {
     padding-bottom: 40px;
 }
 .hero_content_heading h1 {
-    font-size: 33px;
+    font-size: 31px;
 }
 .hero_content_heading p {
     font-size: 14px;
@@ -851,6 +854,9 @@ top: 60px;
     /* arrival-section-ends */
 
     /* offer-section-starts */
+    .offer_content {
+    left: 12px;
+}
     .offer_img {
     height: 210px;
 }
@@ -899,11 +905,14 @@ top: 60px;
 }
 .newsletter_form button {
     font-size: 14px;
-    padding: 9px 14px;
+    padding: 9px 13px;
 }
     /* newsletter-section-ends */
 
     /* footer-section-starts */
+    .footer_logo .logo {
+    margin-bottom: 23px;
+}
     .footer_content_text p {
     font-size: 14px;
     margin-bottom: 8px;
@@ -934,6 +943,7 @@ top: 60px;
 }
 .footer_payment_ways a {
     padding: 2px 7px;
+    margin-right: 8px;
 }
 .footer_payment_ways {
     margin-bottom: 20px;

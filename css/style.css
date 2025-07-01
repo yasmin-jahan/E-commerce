@@ -794,6 +794,9 @@ margin-bottom: 20px;
 .newsletter_section {
     background-image: url(../img/newsletter_img.webp);
     padding: 50px 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .newsletter_content h2 {
