@@ -282,6 +282,7 @@
 
     .hero_content {
         margin-top: 60px;
+        text-align: center;
     }
 
     .hero_content_heading h3 {
@@ -783,7 +784,7 @@
 
     .newsletter_form button {
         font-size: 12px;
-        padding: 13px 6px;
+        padding: 13px 12px;
     }
 
     .newsletter_form input[type="text"] {
@@ -1156,6 +1157,7 @@
         /* font-size: 12px; */
         padding: 9px 8px;
     }
+    
 .user.active {
     max-width: 290px;
 }
