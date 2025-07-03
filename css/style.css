@@ -94,6 +94,7 @@ header {
     position: absolute;
     top: 85px;
     right: 32px;
+    max-width: 250px;
     /* show near header icons */
     transition: 0.2s;
     z-index: 99;
@@ -136,6 +137,7 @@ header {
     visibility: visible;
       transition: all .3s ease;
     z-index: 99;
+    max-width: 310px;
 }
 .cart_row {
     margin-bottom: 20px;
@@ -227,6 +229,7 @@ margin-bottom: 20px;
       opacity: 1;
     visibility: visible;
       transition: all .3s ease;
+      max-width: 325px;
     z-index: 99;
 }
 .user_content{
