@@ -396,13 +396,13 @@
     z-index: 9999;
     font-size: 18px;
     width: 80%;
-    left: -80%;
+    right: -80%;
     transition: left 0.3s ease;
     background-color: #fff;
     transition: all .5s ease;
 }
 .header_mobile_nav_active {
-    left: 0;
+    right: 0;
 }
 .mobile_nav_header{
     display: flex;
