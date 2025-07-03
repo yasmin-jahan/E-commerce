@@ -1159,7 +1159,7 @@
 
     .newsletter_form input[type="text"] {
         padding: 2px 8px;
-        max-width: 150px;
+        max-width: 165px;
     }
 
     /* newsletter-section-ends */
@@ -1202,11 +1202,11 @@
     }
 
     .footer_payment_ways a i {
-        font-size: 40px;
+        font-size: 35px;
     }
 
     .footer_payment_ways a {
-        padding: 2px 7px;
+        padding: 2px 9px;
         margin-right: 8px;
     }
 
