@@ -1156,7 +1156,9 @@
         /* font-size: 12px; */
         padding: 9px 8px;
     }
-
+.user.active {
+    max-width: 290px;
+}
     .newsletter_form input[type="text"] {
         padding: 2px 8px;
         max-width: 165px;

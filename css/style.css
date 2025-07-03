@@ -204,7 +204,7 @@ margin-bottom: 20px;
     color: var(--bg-color);
     background-color: var(--main-color);
     border: none;
-    clip-path: polygon(100% 0, 93% 50%, 86% 99%, 0% 100%, 7% 47%, 13% 0%);
+    clip-path: polygon(7% 0, 100% 0, 93% 100%, 0% 100%);
     transition: all .3s ease;
 }
 .cart_order button:hover {
@@ -333,7 +333,7 @@ margin-bottom: 20px;
     color: var(--bg-color);
     background-color: var(--main-color);
     border: none;
-    clip-path: polygon(100% 0, 93% 50%, 86% 99%, 0% 100%, 7% 47%, 13% 0%);
+    clip-path: polygon(7% 0, 100% 0, 93% 100%, 0% 100%);
     transition: all .3s ease;
 }
 
@@ -457,7 +457,7 @@ margin-bottom: 20px;
     background-color: var(--main-color);
     padding: 5px 25px;
     color: var(--second-color);
-    clip-path: polygon(100% 0, 93% 50%, 86% 99%, 0% 100%, 7% 47%, 13% 0%);
+   clip-path: polygon(7% 0, 100% 0, 93% 100%, 0% 100%);
 }
 
 .product_heading p {
@@ -491,7 +491,7 @@ margin-bottom: 20px;
     display: inline-block;
     color: var(--text-color);
     background-color: var(--main-color);
-    clip-path: polygon(100% 0, 93% 50%, 86% 99%, 0% 100%, 7% 47%, 13% 0%);
+   clip-path: polygon(7% 0, 100% 0, 93% 100%, 0% 100%);
     padding: 4px 20px;
     margin-bottom: 0;
     font-weight: 600;
@@ -616,7 +616,7 @@ margin-bottom: 20px;
     font-size: 16px;
     display: inline-block;
     background-color: var(--main-color);
-    clip-path: polygon(100% 0, 93% 50%, 86% 99%, 0% 100%, 7% 47%, 13% 0%);
+   clip-path: polygon(7% 0, 100% 0, 93% 100%, 0% 100%);
     padding: 4px 20px;
     margin-bottom: 0;
     font-weight: 600;
