@@ -904,9 +904,17 @@ margin-bottom: 20px;
 }
 
 .footer_content_text p span {
+    color: var(--text-color);
     font-weight: 500;
 }
-
+.footer_content_text p span a{
+    text-decoration: none;
+    color: var(--text-color);
+    transition: all .3s ease;
+}
+.footer_content_text p span a:hover{
+    color: var(--main-color);
+}
 .social_icons {
     display: flex;
     align-items: center;
