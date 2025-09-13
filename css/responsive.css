@@ -277,6 +277,7 @@
         max-width: 430px;
         height: 290px;
         margin: 0 auto;
+        margin-top: 70px;
 
     }
 
@@ -540,6 +541,7 @@
     .hero_content_img {
         max-width: 400px;
         height: 255px;
+        margin-top: 50px;
     }
 
     .hero_content {
